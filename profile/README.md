@@ -2,7 +2,7 @@
 <br />
 
 <h3 align="center">Codek7 : the Self-Hosted Media Streaming Platform</h3>
-
+  <img src="https://media.discordapp.net/attachments/1385955155173838860/1388872261670404166/codek7.png?ex=68653297&is=6863e117&hm=d3aa3d538d1132d1c5b66299a300bfbbf9abd702c59244435631d5481f68ed7e&=&format=webp&quality=lossless&width=2844&height=1256">
   <p align="center">
     A robust, self-hosted media streaming platform with automatic transcoding and adaptive bitrate delivery.
     <br />
